@@ -3,6 +3,8 @@
 API de la aplicacion creada en laravel
 
 - Para comenzar a usar ejecutar composer install
+- php artisan migrate
+- php artisan db:seed
 
 ## Official Documentation
 
